@@ -15,7 +15,6 @@ def createServer():
 
         # Infinite loop to listen for requests
         while 1:
-            print("loop start")
             # accept - ready to pick the phone up
             # that means it is blocking
             # sits there forever
